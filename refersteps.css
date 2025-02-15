@@ -1,0 +1,18 @@
+.refer-steps {
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: #f9f9f9;
+}
+
+.steps-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.step-box {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,22 @@
+.refer-benefits {
+    text-align: center;
+    padding: 3rem 1rem;
+    background-color: white;
+}
+
+.benefits-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.benefits-table th,
+.benefits-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.benefits-table th {
+    background-color: #007bff;
+    color: white;
+}
