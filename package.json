@@ -1,4 +1,5 @@
 {
+  "homepage": "https://shubhanshut31.github.io/Accredian-frontend-task"
   "name": "referral-app",
   "version": "0.1.0",
   "private": true,
@@ -42,3 +43,5 @@
     "tailwindcss": "^4.0.6"
   }
 }
+
+
