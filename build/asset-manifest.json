@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Accredian-frontend-task/static/css/main.011e4355.css",
+    "main.js": "/Accredian-frontend-task/static/js/main.00f5aac5.js",
+    "index.html": "/Accredian-frontend-task/index.html",
+    "main.011e4355.css.map": "/Accredian-frontend-task/static/css/main.011e4355.css.map",
+    "main.00f5aac5.js.map": "/Accredian-frontend-task/static/js/main.00f5aac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.011e4355.css",
+    "static/js/main.00f5aac5.js"
+  ]
+}
